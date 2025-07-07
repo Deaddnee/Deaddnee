@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Deaddnee
 - 👀 I’m interested in pentesting & python.
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on whatever, bro
+- 💞️ I’m looking to collaborate on whatever.
 - 📫 Discord: deaddnee - Telegram: https://t.me/DE4DDNE3
 - ⛧ Egotheistic Satanist
 - i dual boot on my pc (ubuntu 24.04 & windows 10) & triple on my t480 (ubuntu 24.04, windows 11, & kali)
