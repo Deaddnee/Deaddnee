@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Deaddnee; aka dnee haley.
+- 👋 Hi, I’m Allison; transfem.
 - 👀 I’m interested in pentesting & python.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on whatever.
